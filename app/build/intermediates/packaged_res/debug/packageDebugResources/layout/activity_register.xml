@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/register"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:padding="24dp"
+    tools:context=".RegisterActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_marginRight="32dp"
+        android:text="Register"
+        android:textColor="#1A73E8"
+        android:textSize="24sp"
+        android:textStyle="bold"
+    />
+
+    <EditText
+        android:id="@+id/etUser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:inputType="textPersonName"
+        android:textColor="@color/black"
+        android:hint="Nama"
+    />
+
+    <EditText
+        android:id="@+id/etEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:inputType="textEmailAddress"
+        android:textColor="@color/black"
+        android:hint="Email"
+    />
+
+    <EditText
+        android:id="@+id/etPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:inputType="textPassword"
+        android:textColor="@color/black"
+        android:hint="Passowrd"
+    />
+
+    <EditText
+        android:id="@+id/etRepeatPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:inputType="textPassword"
+        android:textColor="@color/black"
+        android:hint="Repeat Password"
+    />
+
+    <TextView
+        android:text="Jenis Kelamin"
+        android:textColor="#1A73E8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        />
+
+    <RadioGroup
+        android:id="@+id/rdKelamin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <RadioButton
+            android:text="Laki-laki"
+            android:id="@+id/rbLaki"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <RadioButton
+            android:text="Perempuan"
+            android:id="@+id/rbPerempuan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </RadioGroup>
+
+    <TextView
+        android:text="Hobi"
+        android:textColor="#1A73E8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+    />
+
+    <CheckBox
+        android:text="Membaca"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+    />
+
+    <CheckBox
+        android:text="Olahraga"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+    />
+
+    <CheckBox
+        android:text="Gaming"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+    />
+
+    <Button
+        android:id="@+id/btnRegister"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Register"
+        android:backgroundTint="#1A73E8"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        android:layout_marginTop="24dp"/>
+</LinearLayout>
