@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.testlagi.app-mergeDebugResources-33:/values-v28/values-v28.xml",
+            "outputFile": "com.example.testlagi.app-mergeDebugResources-37:/values-v28/values-v28.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Bee\\.gradle\\caches\\9.3.1\\transforms\\09fc8064183bed15f8dd7c1aba5efacd\\workspace\\transformed\\material-1.13.0\\res\\values-v28\\values-v28.xml",
+                    "source": "C:\\Users\\kaoke\\.gradle\\caches\\9.3.1\\transforms\\458a9c4c9b676018e6758ffd5664cadf\\workspace\\transformed\\material-1.13.0\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Bee\\.gradle\\caches\\9.3.1\\transforms\\fbcd35bfbcbd8cbe101ee6d68a2b559c\\workspace\\transformed\\appcompat-1.7.1\\res\\values-v28\\values-v28.xml",
+                    "source": "C:\\Users\\kaoke\\.gradle\\caches\\9.3.1\\transforms\\f1ec010f4022cc748dabbba3f11db0af\\workspace\\transformed\\appcompat-1.7.1\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,8",
                         "startColumns": "4,4,4,4",

@@ -81,6 +81,26 @@
         android:textSize="16sp"/>
 
     <Button
+        android:id="@+id/btnStudentCRUD"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SQLite Siswa"
+        android:backgroundTint="#FFAAAA"
+        android:textColor="#FFFFFF"
+        android:layout_marginBottom="12dp"
+        android:textSize="16sp"/>
+
+    <Button
+        android:id="@+id/btnStudentSQL"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MySQL Siswa"
+        android:backgroundTint="#FFAAAA"
+        android:textColor="#FFFFFF"
+        android:layout_marginBottom="12dp"
+        android:textSize="16sp"/>
+
+    <Button
         android:id="@+id/btnBack"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

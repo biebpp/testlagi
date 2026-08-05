@@ -1,134 +1,150 @@
 [
     {
-        "merged": "com.example.testlagi.app-debug-35:/layout_makanan_item.xml.flat",
-        "source": "com.example.testlagi.app-main-37:/layout/makanan_item.xml"
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.testlagi.app-debug-35:/layout_activity_multi.xml.flat",
-        "source": "com.example.testlagi.app-main-37:/layout/activity_multi.xml"
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.testlagi.app-debug-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.testlagi.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\layout\\activity_register.xml"
     },
     {
-        "merged": "com.example.testlagi.app-debug-35:/layout_activity_home.xml.flat",
-        "source": "com.example.testlagi.app-main-37:/layout/activity_home.xml"
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\layout_activity_makanan.xml.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\layout\\activity_makanan.xml"
     },
     {
-        "merged": "com.example.testlagi.app-debug-35:/layout_activity_multi_detail.xml.flat",
-        "source": "com.example.testlagi.app-main-37:/layout/activity_multi_detail.xml"
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\layout_activity_student.xml.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\layout\\activity_student.xml"
     },
     {
-        "merged": "com.example.testlagi.app-debug-35:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.testlagi.app-main-37:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\layout_mahasiswa_item.xml.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\layout\\mahasiswa_item.xml"
     },
     {
-        "merged": "com.example.testlagi.app-debug-35:/layout_activity_login.xml.flat",
-        "source": "com.example.testlagi.app-main-37:/layout/activity_login.xml"
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\mipmap-hdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.testlagi.app-debug-35:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.testlagi.app-main-37:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.example.testlagi.app-debug-35:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.testlagi.app-main-37:/mipmap-xhdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\layout_activity_multi_detail.xml.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\layout\\activity_multi_detail.xml"
     },
     {
-        "merged": "com.example.testlagi.app-debug-35:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.testlagi.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.testlagi.app-debug-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.testlagi.app-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\layout_activity_multi.xml.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\layout\\activity_multi.xml"
     },
     {
-        "merged": "com.example.testlagi.app-debug-35:/layout_mahasiswa_item.xml.flat",
-        "source": "com.example.testlagi.app-main-37:/layout/mahasiswa_item.xml"
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.testlagi.app-debug-35:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.testlagi.app-main-37:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\layout_item_student.xml.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\layout\\item_student.xml"
     },
     {
-        "merged": "com.example.testlagi.app-debug-35:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.testlagi.app-main-37:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\drawable_test.jpg.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\drawable\\test.jpg"
     },
     {
-        "merged": "com.example.testlagi.app-debug-35:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.testlagi.app-main-37:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.testlagi.app-debug-35:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.testlagi.app-main-37:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.testlagi.app-debug-35:/xml_backup_rules.xml.flat",
-        "source": "com.example.testlagi.app-main-37:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\layout_makanan_item.xml.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\layout\\makanan_item.xml"
     },
     {
-        "merged": "com.example.testlagi.app-debug-35:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.testlagi.app-main-37:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.testlagi.app-debug-35:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.testlagi.app-main-37:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.testlagi.app-debug-35:/layout_activity_register.xml.flat",
-        "source": "com.example.testlagi.app-main-37:/layout/activity_register.xml"
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.testlagi.app-debug-35:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.testlagi.app-main-37:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.testlagi.app-debug-35:/layout_activity_calculator.xml.flat",
-        "source": "com.example.testlagi.app-main-37:/layout/activity_calculator.xml"
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.testlagi.app-debug-35:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.testlagi.app-main-37:/mipmap-mdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\layout_activity_calculator.xml.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\layout\\activity_calculator.xml"
     },
     {
-        "merged": "com.example.testlagi.app-debug-35:/layout_activity_mahasiswa.xml.flat",
-        "source": "com.example.testlagi.app-main-37:/layout/activity_mahasiswa.xml"
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\layout\\activity_login.xml"
     },
     {
-        "merged": "com.example.testlagi.app-debug-35:/layout_activity_catatan.xml.flat",
-        "source": "com.example.testlagi.app-main-37:/layout/activity_catatan.xml"
+        "merged": "com.example.testlagi.app-debug-39:/layout_activity_student_sql.xml.flat",
+        "source": "com.example.testlagi.app-main-41:/layout/activity_student_sql.xml"
     },
     {
-        "merged": "com.example.testlagi.app-debug-35:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.testlagi.app-main-37:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\layout_activity_catatan.xml.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\layout\\activity_catatan.xml"
     },
     {
-        "merged": "com.example.testlagi.app-debug-35:/drawable_test.jpg.flat",
-        "source": "com.example.testlagi.app-main-37:/drawable/test.jpg"
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.testlagi.app-debug-35:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.testlagi.app-main-37:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\layout_activity_student_sql.xml.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\layout\\activity_student_sql.xml"
     },
     {
-        "merged": "com.example.testlagi.app-debug-35:/layout_activity_makanan.xml.flat",
-        "source": "com.example.testlagi.app-main-37:/layout/activity_makanan.xml"
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.testlagi.app-debug-35:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.testlagi.app-main-37:/mipmap-hdpi/ic_launcher_foreground.webp"
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.testlagi.app-debug-35:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.testlagi.app-main-37:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.testlagi.app-debug-35:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.testlagi.app-main-37:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.testlagi.app-debug-35:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.testlagi.app-main-37:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\layout_activity_mahasiswa.xml.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\layout\\activity_mahasiswa.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-debug-39:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\kaoke\\.gradle\\daemon\\9.3.1\\com.example.testlagi.app-main-41:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
     }
 ]

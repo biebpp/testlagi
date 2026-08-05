@@ -8,7 +8,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class HomeActivity extends AppCompatActivity {
 
-    Button btnCalc, btnMulti, btnMahasiswa, btnMakanan, btnCatatan;
+    Button btnCalc, btnMulti, btnMahasiswa, btnMakanan, btnCatatan, btnStudentCRUD, btnStudentSQL;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -17,9 +17,12 @@ public class HomeActivity extends AppCompatActivity {
 
         btnCalc = findViewById(R.id.btnCalc);
         btnMulti = findViewById(R.id.btnMulti);
+        btnMulti = findViewById(R.id.btnMulti);
         btnMahasiswa = findViewById(R.id.btnMahasiswa);
         btnMakanan = findViewById(R.id.btnMakanan);
         btnCatatan = findViewById(R.id.btnCatatan);
+        btnStudentCRUD = findViewById(R.id.btnStudentCRUD);
+        btnStudentSQL = findViewById(R.id.btnStudentSQL);
 
         String user = getIntent().getStringExtra("user");
         ((TextView) findViewById(R.id.username)).setText("Selamat Datang! " + user);
@@ -50,6 +53,18 @@ public class HomeActivity extends AppCompatActivity {
 
         btnCatatan.setOnClickListener(v -> {
             Intent intent = new Intent(this, CatatanActivity.class);
+
+            startActivity(intent);
+        });
+
+        btnStudentCRUD.setOnClickListener(v -> {
+            Intent intent = new Intent(this, StudentActivity.class);
+
+            startActivity(intent);
+        });
+
+        btnStudentSQL.setOnClickListener(v -> {
+            Intent intent = new Intent(this, StudentSQLActivity.class);
 
             startActivity(intent);
         });
